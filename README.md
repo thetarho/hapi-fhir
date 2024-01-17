@@ -1,4 +1,4 @@
-HAPI FHIR
+HAPI FHIR (Version used in ThetaRho Demo Apps ... leave it alone)
 =========
 
 HAPI FHIR - Java API for HL7 FHIR Clients and Servers
